@@ -411,7 +411,7 @@
       "tipo": "texto",
       "titulo": "Certificação",
       "paragrafos": [
-        "Certificação INEMA de qualificação \"Gestor de IA\", em breve no cert.inema.pro. Não é certificação profissional regulada.",
+        "Certificação ARCKHÉ de qualificação \"Gestor de IA\", em breve no cert.ARCKHÉ.pro. Não é certificação profissional regulada.",
         "Este é o curso G3 da Formação Gestão de IA 2027. Os outros cursos tratam da empresa agêntica (G0), das pessoas (G1), dos processos (G2), dos recursos (G4) e de governar, medir e evoluir (G5), onde fica o projeto final da formação."
       ]
     },
@@ -421,17 +421,17 @@
       "links": [
         {
           "t": "Área Gestão de IA: a formação e os cursos",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Gestoria: administrar uma operação híbrida de ponta a ponta",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Laboratório Horizonte: todas as peças (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         }
       ]

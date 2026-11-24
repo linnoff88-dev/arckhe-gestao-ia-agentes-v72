@@ -80,7 +80,7 @@
           "detalhe": "La decisión queda registrada con quién decidió, cuándo y por qué. En la revisión semanal, las causas que se repiten se vuelven cambios: un caso de prueba nuevo, una línea en la matriz, una frase en la constitución."
         }
       ],
-      "legenda": "Caso normal, dudoso y crítico; paquete de excepción y rituales de supervisión: método Gestoria (INEMA)."
+      "legenda": "Caso normal, dudoso y crítico; paquete de excepción y rituales de supervisión: método Gestoria (ARCKHÉ)."
     },
     {
       "tipo": "simconversa",
@@ -409,17 +409,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: las conversaciones c-201 a c-203 (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Gestoria: simular la ejecución, revisar la pendiente y registrar la decisión",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Área Gestión de IA: los indicadores de un agente",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "grafico"
         }
       ]

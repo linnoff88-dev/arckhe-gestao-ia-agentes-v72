@@ -80,7 +80,7 @@
           "detalhe": "A supervisor agent coordinates, but it does not gain or hand out new permissions. The yellow and red points of the matrix stay with a person, and that person answers for the whole team."
         }
       ],
-      "legenda": "\"Intelligence in sequence, automation in parallel\": rule from the Execution Architect (INEMA). The three signs come from the Super-Agents in practice course."
+      "legenda": "\"Intelligence in sequence, automation in parallel\": rule from the Execution Architect (ARCKHÉ). The three signs come from the Super-Agents in practice course."
     },
     {
       "tipo": "passos",
@@ -267,17 +267,17 @@
       "links": [
         {
           "t": "Execution Architect: parallel × sequential",
-          "href": "https://inematds.github.io/agenteexecuta/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "Super-Agents in practice: teams of agents",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Agent Architect Kit: orchestration chain",
-          "href": "https://inematds.github.io/kit-arquiteto-agentes/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

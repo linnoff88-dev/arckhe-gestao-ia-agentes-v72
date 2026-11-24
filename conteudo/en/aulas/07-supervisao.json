@@ -80,7 +80,7 @@
           "detalhe": "The decision is recorded with who decided, when and why. In the weekly review, the causes that repeat become change: a new test case, a line in the matrix, a sentence in the constitution."
         }
       ],
-      "legenda": "Normal, doubtful and critical cases; exception package and supervision rituals: Gestoria method (INEMA)."
+      "legenda": "Normal, doubtful and critical cases; exception package and supervision rituals: Gestoria method (ARCKHÉ)."
     },
     {
       "tipo": "simconversa",
@@ -409,17 +409,17 @@
       "links": [
         {
           "t": "Horizonte Lab: conversations c-201 to c-203 (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Gestoria: simulate execution, review a pending item and record a decision",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "AI Management Area: an agent's indicators",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "grafico"
         }
       ]

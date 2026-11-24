@@ -211,7 +211,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "Primero en Horizonte, para entrenar. Después en tu proceso, para valer.",
-      "fonte": "Pieza del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp de Horizonte</a> (prompt, configuración y conversaciones).",
+      "fonte": "Pieza del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp de Horizonte</a> (prompt, configuración y conversaciones).",
       "exercicios": [
         {
           "id": "e1",
@@ -319,22 +319,22 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el agente de WhatsApp (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Laboratorio Horizonte: inventario de TI y encuesta interna (F12)",
-          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Kit del Arquitecto de Agentes: la especificación de un agente en una página",
-          "href": "https://inematds.github.io/kit-arquiteto-agentes/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Área Gestión de IA: la tesis y las 8 competencias",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         }
       ]

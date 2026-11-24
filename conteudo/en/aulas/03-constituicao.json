@@ -90,7 +90,7 @@
           "detalhe": "Three to five real situations with what to do and why. The why is what teaches judgment: the agent applies the reasoning to similar cases that nobody wrote down."
         }
       ],
-      "legenda": "Mission, priorities and cases with the why: this is what separates a constitution from a list of rules. Template derived from the Agent Constitution kit (INEMA)."
+      "legenda": "Mission, priorities and cases with the why: this is what separates a constitution from a list of rules. Template derived from the Agent Constitution kit (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -181,7 +181,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Write Hora's to practice and your own agent's for real.",
-      "fonte": "9-section template and test cases from the <a href=\"https://inematds.github.io/constituicao-agentes/guia/\">Agent Constitution</a> kit; conversation c-202 in the <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">lab</a>.",
+      "fonte": "9-section template and test cases from the <a href=\"https://linnoff88-dev.github.io/ Constitution</a> kit; conversation c-202 in the <a href=\"https://linnoff88-dev.github.io/
       "exercicios": [
         {
           "id": "e1",
@@ -278,12 +278,12 @@
       "links": [
         {
           "t": "Agent Constitution: kit with template, test cases and checker",
-          "href": "https://inematds.github.io/constituicao-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Companies of 2027 Course v6.2: managing people and agents",
-          "href": "https://inematds.github.io/empresas-2027-v62/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "usuario"
         },
         {

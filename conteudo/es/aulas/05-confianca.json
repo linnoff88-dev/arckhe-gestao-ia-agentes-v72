@@ -60,7 +60,7 @@
           "detalhe": "Una decisión por acción, con el número al lado. Ampliar sube un nivel; mantener corre una semana más; reducir baja; apagar es el botón de la clase 4 hasta entender qué pasó. Nunca decidas por el caso aislado, bueno o malo."
         }
       ],
-      "legenda": "Ciclo y cinco números adaptados de la ficha de confianza del curso Super-Agentes en la práctica (INEMA)."
+      "legenda": "Ciclo y cinco números adaptados de la ficha de confianza del curso Super-Agentes en la práctica (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -151,7 +151,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "Decide como Patrícia con los datos ficticios; después prepara la medición de tu agente.",
-      "fonte": "Panel del laboratorio para comparar: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">el panel de Carlos (F11)</a>.",
+      "fonte": "Panel del laboratorio para comparar: <a href=\"https://linnoff88-dev.github.io/ panel de Carlos (F11)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -249,17 +249,17 @@
       "links": [
         {
           "t": "Super-Agentes en la práctica: la ficha de confianza",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Laboratorio Horizonte: el panel de Carlos (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Gestoria: el simulador de gestión de IA",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

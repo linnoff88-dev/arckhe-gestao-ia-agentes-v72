@@ -86,7 +86,7 @@
           "detalhe": "Um agente que distribui trabalho para outros dentro de um processo aprovado. Ele não ganha permissão nova por isso: não aprova desconto, não cria ferramenta, não amplia o que os outros podem. A pessoa continua respondendo pelas decisões críticas (aula 6)."
         }
       ],
-      "legenda": "Níveis 0 a 4 do método Gestoria (INEMA). O nível geral do agente é só um resumo: quem manda é a cor de cada ação. Valores da Horizonte: política fictícia de estudo."
+      "legenda": "Níveis 0 a 4 do método Gestoria (ARCKHÉ). O nível geral do agente é só um resumo: quem manda é a cor de cada ação. Valores da Horizonte: política fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -177,7 +177,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A matriz da Hora corrige duas falhas do laboratório; a sua vale para o seu agente.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp</a> (F5, F7) e <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">assistente de e-mail</a> (F9).",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp</a> (F5, F7) e <a href=\"https://linnoff88-dev.github.io/ de e-mail</a> (F9).",
       "exercicios": [
         {
           "id": "e1",
@@ -285,17 +285,17 @@
       "links": [
         {
           "t": "Laboratório Horizonte: configuração da Hora (empresa fictícia de estudo)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Laboratório Horizonte: assistente de e-mail (F9)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         },
         {
           "t": "Super-Agentes na prática: até onde o agente pode ir",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

@@ -90,7 +90,7 @@
           "detalhe": "De tres a cinco situaciones reales con qué hacer y por qué. El porqué es lo que enseña criterio: el agente aplica el razonamiento a casos parecidos que nadie escribió."
         }
       ],
-      "legenda": "Misión, prioridades y casos con porqué: eso es lo que separa una constitución de una lista de reglas. Plantilla derivada del kit Constitución de los Agentes (INEMA)."
+      "legenda": "Misión, prioridades y casos con porqué: eso es lo que separa una constitución de una lista de reglas. Plantilla derivada del kit Constitución de los Agentes (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -181,7 +181,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "Escribe la de la Hora para practicar y la de tu agente para que valga de verdad.",
-      "fonte": "Modelo de 9 secciones y casos de prueba del kit <a href=\"https://inematds.github.io/constituicao-agentes/guia/\">Constituição dos Agentes</a>; conversación c-202 en el <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">laboratorio</a>.",
+      "fonte": "Modelo de 9 secciones y casos de prueba del kit <a href=\"https://linnoff88-dev.github.io/ dos Agentes</a>; conversación c-202 en el <a href=\"https://linnoff88-dev.github.io/
       "exercicios": [
         {
           "id": "e1",
@@ -278,12 +278,12 @@
       "links": [
         {
           "t": "Constituição dos Agentes: kit con modelo, casos de prueba y verificador",
-          "href": "https://inematds.github.io/constituicao-agentes/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Curso Empresas de 2027 v6.2: gestionar personas y agentes",
-          "href": "https://inematds.github.io/empresas-2027-v62/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "usuario"
         },
         {

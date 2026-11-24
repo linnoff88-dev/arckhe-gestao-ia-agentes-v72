@@ -80,7 +80,7 @@
           "detalhe": "Um agente supervisor coordena, mas não ganha nem distribui permissão nova. Os pontos amarelos e vermelhos da matriz continuam com uma pessoa, e ela responde pela equipe inteira."
         }
       ],
-      "legenda": "\"Inteligência em sequência, automação em paralelo\": regra do Arquiteto de Execução (INEMA). Os três sinais vêm do curso Super-Agentes na prática."
+      "legenda": "\"Inteligência em sequência, automação em paralelo\": regra do Arquiteto de Execução (ARCKHÉ). Os três sinais vêm do curso Super-Agentes na prática."
     },
     {
       "tipo": "passos",
@@ -267,17 +267,17 @@
       "links": [
         {
           "t": "Arquiteto de Execução: paralelo × sequencial",
-          "href": "https://inematds.github.io/agenteexecuta/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
         {
           "t": "Super-Agentes na prática: equipes de agentes",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Kit do Arquiteto de Agentes: cadeia de orquestração",
-          "href": "https://inematds.github.io/kit-arquiteto-agentes/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

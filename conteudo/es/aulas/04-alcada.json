@@ -86,7 +86,7 @@
           "detalhe": "Un agente que reparte trabajo a otros dentro de un proceso aprobado. No gana un permiso nuevo por eso: no aprueba descuentos, no crea herramientas, no amplía lo que pueden hacer los demás. La persona sigue respondiendo por las decisiones críticas (clase 6)."
         }
       ],
-      "legenda": "Niveles 0 a 4 del método Gestoria (INEMA). El nivel general del agente es solo un resumen: quien manda es el color de cada acción. Valores de Horizonte: política ficticia de estudio."
+      "legenda": "Niveles 0 a 4 del método Gestoria (ARCKHÉ). El nivel general del agente es solo un resumen: quien manda es el color de cada acción. Valores de Horizonte: política ficticia de estudio."
     },
     {
       "tipo": "passos",
@@ -177,7 +177,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La matriz de Hora corrige dos fallas del laboratorio; la tuya vale para tu agente.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp</a> (F5, F7) y <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">asistente de correo</a> (F9).",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp</a> (F5, F7) y <a href=\"https://linnoff88-dev.github.io/ de correo</a> (F9).",
       "exercicios": [
         {
           "id": "e1",
@@ -285,17 +285,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: configuración de Hora (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Laboratorio Horizonte: asistente de correo (F9)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         },
         {
           "t": "Super-Agentes en la práctica: hasta dónde puede llegar el agente",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

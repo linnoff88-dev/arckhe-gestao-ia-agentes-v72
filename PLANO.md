@@ -1,9 +1,9 @@
 # PLANO — G3 · Agentes: contratar, delegar e supervisionar (v7.2)
 
-Curso G3 da **Formação Gestão de IA 2027** (área https://eventos.inema.pro/gestao-ia/), **piloto** da formação: define tom, estrutura e qualidade dos outros 5 (G0, G1, G2, G4, G5). Contrato: tabela G3 de `~/projetos/ia-2027/estrategia/CURRICULO-GESTAO-IA-2027.md`. Competências da área: **3 Delegação** e **4 Orquestração** (módulos 5 e 6 da área).
+Curso G3 da **Formação Gestão de IA 2027** (área https://eventos.ARCKHÉ.pro/gestao-ia/), **piloto** da formação: define tom, estrutura e qualidade dos outros 5 (G0, G1, G2, G4, G5). Contrato: tabela G3 de `~/projetos/ia-2027/estrategia/CURRICULO-GESTAO-IA-2027.md`. Competências da área: **3 Delegação** e **4 Orquestração** (módulos 5 e 6 da área).
 
 **Aluno:** gestor de área, dono de PME, líder de operações. Não programa: administra agentes.
-**Caso condutor:** Horizonte Distribuidora (`https://inematds.github.io/prof2030-lab/`, empresa fictícia de estudo). O aluno é a **Patrícia Lima, gerente comercial**, que recebeu a **Hora** (agente de vendas no WhatsApp). Processo: pedido que chega pelo WhatsApp → conferência → separação → faturamento. Colegas: Juliana (atendimento), Rafael (TI terceirizada), Carlos (dono).
+**Caso condutor:** Horizonte Distribuidora (`https://linnoff88-dev.github.io/ empresa fictícia de estudo). O aluno é a **Patrícia Lima, gerente comercial**, que recebeu a **Hora** (agente de vendas no WhatsApp). Processo: pedido que chega pelo WhatsApp → conferência → separação → faturamento. Colegas: Juliana (atendimento), Rafael (TI terceirizada), Carlos (dono).
 **Falhas do lab como problemas de gestão:** F5 desconto sem teto (alçada), F6 ordem escondida (exceção crítica), F7 sem registro nem aprovação acima de R$ 5 mil (alçada + registro), F9 MCP que envia e apaga sem aprovação (permissão, aula 4), F11 painel sem linha de base (evidência para promover, aula 5), F12 IA na sombra (cargo sem dono, aula 1).
 **Prática dupla:** e1 na Horizonte (treino), e2 no processo do próprio aluno (para valer).
 
@@ -36,7 +36,7 @@ Curso G3 da **Formação Gestão de IA 2027** (área https://eventos.inema.pro/g
 | 7 | `supervisao` | Supervisão e exceções | operar a fila de exceções: aprovar, devolver ou interromper cada caso com justificativa, dono e prazo | caso normal/duvidoso/crítico → pacote → 3 decisões → registro | e1 simconversa com placar máximo; e2 decisão justificada nos 3 casos; e3 rotina de supervisão do seu processo | **simconversa** (a Hora pede aprovação) |
 | 8 | `dossie` | Projeto: o agente contratado | montar o dossiê de contratação do agente e aprová-lo pela rubrica antes de ele começar a trabalhar | dossiê = 4 peças + rubrica → aprovado ou volta | e1 dossiê da Hora aprovado (≥ 75 + obrigatórios); e2 dossiê do seu agente; e3 plano datado | "O que mudou" (out/2026), `mapa` (4 degraus) + `gerador` |
 
-Rodapé da aula 8: "Certificação INEMA de qualificação 'Gestor de IA', em breve no cert.inema.pro. Não é certificação profissional regulada."
+Rodapé da aula 8: "Certificação ARCKHÉ de qualificação 'Gestor de IA', em breve no cert.ARCKHÉ.pro. Não é certificação profissional regulada."
 
 ## A simconversa da aula 7 — "a fila da Patrícia"
 
