@@ -60,7 +60,7 @@
           "detalhe": "One decision per action, with the number next to it. Expand moves up one level; keep runs one more week; reduce moves down; turn off is the lesson 4 button until you understand what happened. Never decide from a single case, good or bad."
         }
       ],
-      "legenda": "Cycle and five numbers adapted from the trust sheet of the Super-Agents in practice course (INEMA)."
+      "legenda": "Cycle and five numbers adapted from the trust sheet of the Super-Agents in practice course (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -151,7 +151,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Decide as Patrícia would, using the fictional data; then prepare the measurement for your own agent.",
-      "fonte": "Lab dashboard to compare: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">Carlos's dashboard (F11)</a>.",
+      "fonte": "Lab dashboard to compare: <a href=\"https://linnoff88-dev.github.io/arckhe-/pecas/painel/\">Carlos's dashboard (F11)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -249,17 +249,17 @@
       "links": [
         {
           "t": "Super-Agents in practice: the trust sheet",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "grafico"
         },
         {
           "t": "Horizonte Lab: Carlos's dashboard (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/pecas/painel/",
           "icone": "grafico"
         },
         {
           "t": "Gestoria: the AI management simulator",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "camadas"
         }
       ]
