@@ -30,21 +30,21 @@
   "secoes": [
     {
       "tipo": "diagrama",
-      "titulo": "A escada da decisão",
-      "sub": "Suba um degrau só quando o de baixo não resolve. Clique em cada degrau.",
+      "titulo": "A escada da decisêo",
+      "sub": "Suba um degrau só quando o de baixo nêo resolve. Clique em cada degrau.",
       "estilo": "escada",
       "nos": [
         {
           "icone": "lista",
           "titulo": "Passo fixo",
-          "sub": "regra que não muda",
-          "detalhe": "Se a resposta é sempre a mesma para a mesma entrada (o preço é o da tabela? o valor passa de R$ 5 mil? o cliente está cadastrado?), não é trabalho de agente: é regra na ferramenta. Mais barata, mais rápida e auditável."
+          "sub": "regra que nêo muda",
+          "detalhe": "Se a resposta é sempre a mesma para a mesma entrada (o preço é o da tabela? o valor passa de R$ 5 mil? o cliente está cadastrado?), nêo é trabalho de agente: é regra na ferramenta. Mais barata, mais rápida e auditável."
         },
         {
           "icone": "usuario",
           "titulo": "Um agente",
           "sub": "uma responsabilidade",
-          "detalhe": "Uma responsabilidade, um conjunto de permissões, um contexto que cabe na mesa dele. Um agente bem escrito vai longe. É o ponto de partida, não um degrau a pular."
+          "detalhe": "Uma responsabilidade, um conjunto de permissões, um contexto que cabe na mesa dele. Um agente bem escrito vai longe. É o ponto de partida, nêo um degrau a pular."
         },
         {
           "icone": "camadas",
@@ -65,22 +65,22 @@
               "t": "conferência independente"
             }
           ],
-          "detalhe": "Separe quando aparecer um destes: o contexto não cabe e a qualidade cai; partes do trabalho pedem permissões ou regras que não podem conviver; ou você quer que quem confere não seja quem fez. Sem um desses motivos, mais agentes é só mais custo e mais passagem."
+          "detalhe": "Separe quando aparecer um destes: o contexto nêo cabe e a qualidade cai; partes do trabalho pedem permissões ou regras que nêo podem conviver; ou você quer que quem confere nêo seja quem fez. Sem um desses motivos, mais agentes é só mais custo e mais passagem."
         },
         {
           "icone": "fila",
           "titulo": "Série ou paralelo",
           "sub": "decidir antes",
-          "detalhe": "Decisões que dependem umas das outras vão em série. Trabalho repetido e independente (cem lembretes iguais, cem conferências) vai em paralelo, de preferência como automação. Regra prática: inteligência em sequência, automação em paralelo, arquivos para compartilhar o contexto."
+          "detalhe": "Decisões que dependem umas das outras vêo em série. Trabalho repetido e independente (cem lembretes iguais, cem conferências) vai em paralelo, de preferência como automaçêo. Regra prática: inteligência em sequência, automaçêo em paralelo, arquivos para compartilhar o contexto."
         },
         {
           "icone": "check",
           "titulo": "Supervisor e pessoa",
           "sub": "quem fecha",
-          "detalhe": "Um agente supervisor coordena, mas não ganha nem distribui permissão nova. Os pontos amarelos e vermelhos da matriz continuam com uma pessoa, e ela responde pela equipe inteira."
+          "detalhe": "Um agente supervisor coordena, mas nêo ganha nem distribui permissêo nova. Os pontos amarelos e vermelhos da matriz continuam com uma pessoa, e ela responde pela equipe inteira."
         }
       ],
-      "legenda": "\"Inteligência em sequência, automação em paralelo\": regra do Arquiteto de Execução (ARCKHÉ). Os três sinais vêm do curso Super-Agentes na prática."
+      "legenda": "\"Inteligência em sequência, automaçêo em paralelo\": regra do Arquiteto de Execuçêo (ARCKHÉ). Os três sinais vêm do curso Super-Agentes na prática."
     },
     {
       "tipo": "passos",
@@ -95,40 +95,40 @@
             "Isso vai para a ferramenta de pedido, como o Rafael já fez depois da aula 3. Um agente para fazer conta é custo e risco sem motivo."
           ],
           "exemplo": {
-            "rot": "Decisão",
-            "texto": "Conferência de pedido: regra na ferramenta, não agente."
+            "rot": "Decisêo",
+            "texto": "Conferência de pedido: regra na ferramenta, nêo agente."
           }
         },
         {
           "titulo": "Cobrança é outro agente?",
           "sub": "o sinal das permissões",
           "texto": [
-            "A cobrança precisa ler contas a receber no ERP, um dado que a Hora não deve ver. Tem outro tom, outras regras (nunca ameaçar, nunca renegociar sozinho) e outro responsável, o financeiro.",
-            "É o segundo sinal: permissões e regras que não podem conviver no mesmo agente. Aqui a separação se justifica. O agente de cobrança ganha ficha, constituição e matriz próprias, todas começando no amarelo."
+            "A cobrança precisa ler contas a receber no ERP, um dado que a Hora nêo deve ver. Tem outro tom, outras regras (nunca ameaçar, nunca renegociar sozinho) e outro responsável, o financeiro.",
+            "É o segundo sinal: permissões e regras que nêo podem conviver no mesmo agente. Aqui a separaçêo se justifica. O agente de cobrança ganha ficha, constituiçêo e matriz próprias, todas começando no amarelo."
           ],
           "exemplo": {
             "rot": "Desenho (proposta fictícia)",
-            "texto": "Hora (vendas) → pedido faturado no ERP → agente de cobrança (lembrete) → financeiro decide renegociação."
+            "texto": "Hora (vendas) → pedido faturado no ERP → agente de cobrança (lembrete) → financeiro decide renegociaçêo."
           }
         },
         {
           "titulo": "Escreva a passagem",
-          "sub": "o que vai junto e o que não vai",
+          "sub": "o que vai junto e o que nêo vai",
           "texto": [
-            "Toda passagem entre agentes tem contrato: o gatilho, o que passa, a evidência que vai junto, o que o recebedor não pode fazer, o prazo e para quem ele devolve.",
-            "Passa o mínimo necessário. O agente de cobrança recebe número da nota, vencimento e contato autorizado, não a conversa inteira de vendas. Menos dado circulando, menos risco e menos contexto pago."
+            "Toda passagem entre agentes tem contrato: o gatilho, o que passa, a evidência que vai junto, o que o recebedor nêo pode fazer, o prazo e para quem ele devolve.",
+            "Passa o mínimo necessário. O agente de cobrança recebe número da nota, vencimento e contato autorizado, nêo a conversa inteira de vendas. Menos dado circulando, menos risco e menos contexto pago."
           ],
           "exemplo": {
             "rot": "Regra de ouro",
-            "texto": "Quem recebe lê o registro do que foi feito e não começa do zero, nem pergunta ao cliente o que já foi informado."
+            "texto": "Quem recebe lê o registro do que foi feito e nêo começa do zero, nem pergunta ao cliente o que já foi informado."
           }
         },
         {
           "titulo": "Ponha limites e paradas",
           "sub": "tentativas, prazo, custo",
           "texto": [
-            "Equipe sem limite entra em laço: um agente devolve para o outro, que devolve de volta, e a fatura cresce. Escreva: no máximo duas tentativas por tarefa, uma devolução entre agentes e depois uma pessoa; prazo por etapa; orçamento mensal da equipe.",
-            "A McKinsey descreve organizações com equipes pequenas por resultado, de 2 a 5 pessoas supervisionando 50 a 100 agentes. É experiência declarada da consultoria, não estudo medido. A unidade é o resultado, não o número de agentes."
+            "Equipe sem limite entra em laço: um agente devolve para o outro, que devolve de volta, e a fatura cresce. Escreva: no máximo duas tentativas por tarefa, uma devoluçêo entre agentes e depois uma pessoa; prazo por etapa; orçamento mensal da equipe.",
+            "A McKinsey descreve organizações com equipes pequenas por resultado, de 2 a 5 pessoas supervisionando 50 a 100 agentes. É experiência declarada da consultoria, nêo estudo medido. A unidade é o resultado, nêo o número de agentes."
           ],
           "exemplo": {
             "rot": "Na Horizonte (valores fictícios)",
@@ -145,12 +145,12 @@
         {
           "rot": "Desenho da equipe (1 página)",
           "icone": "camadas",
-          "conteudo": "DESENHO DA EQUIPE · processo: <de onde até onde> · responsável: <nome> · versão <1.0>\n\nRESULTADO DA EQUIPE (1 frase): <o que estará verdadeiro>\n\nPEÇAS (uma linha cada; tipo = regra na ferramenta | agente | pessoa)\n| Peça | Tipo | Por que existe separada (sinal) | Permissões | Ficha/constituição/matriz |\n|---|---|---|---|---|\n| <conferência de pedido> | regra | <resposta fixa> | - | - |\n| <agente 1> | agente | <motivo> | <ler/escrever o quê> | <links> |\n| <agente 2> | agente | <mesa lota / permissões / conferência> | <...> | <links> |\n| <pessoa> | pessoa | <decide amarelo e vermelho> | - | - |\n\nORDEM: série <quais etapas> · paralelo <quais etapas, de preferência automação>\nSUPERVISOR: <agente ou pessoa> · NÃO amplia permissões de ninguém\nPONTOS HUMANOS: <ações amarelas/vermelhas e quem aprova>\n\nLIMITES DA EQUIPE\n- Tentativas por tarefa: <n> · devoluções entre agentes: <n>, depois <pessoa>\n- Prazo por etapa: <...>\n- Orçamento mensal: <valor> · alerta em <%> para <nome>\nBOTÃO DE DESLIGAR DA EQUIPE: <o que para todos de uma vez> · quem: <nomes>"
+          "conteudo": "DESENHO DA EQUIPE · processo: <de onde até onde> · responsável: <nome> · versêo <1.0>\n\nRESULTADO DA EQUIPE (1 frase): <o que estará verdadeiro>\n\nPEÇAS (uma linha cada; tipo = regra na ferramenta | agente | pessoa)\n| Peça | Tipo | Por que existe separada (sinal) | Permissões | Ficha/constituiçêo/matriz |\n|---|---|---|---|---|\n| <conferência de pedido> | regra | <resposta fixa> | - | - |\n| <agente 1> | agente | <motivo> | <ler/escrever o quê> | <links> |\n| <agente 2> | agente | <mesa lota / permissões / conferência> | <...> | <links> |\n| <pessoa> | pessoa | <decide amarelo e vermelho> | - | - |\n\nORDEM: série <quais etapas> · paralelo <quais etapas, de preferência automaçêo>\nSUPERVISOR: <agente ou pessoa> · NêO amplia permissões de ninguém\nPONTOS HUMANOS: <ações amarelas/vermelhas e quem aprova>\n\nLIMITES DA EQUIPE\n- Tentativas por tarefa: <n> · devoluções entre agentes: <n>, depois <pessoa>\n- Prazo por etapa: <...>\n- Orçamento mensal: <valor> · alerta em <%> para <nome>\nBOTêO DE DESLIGAR DA EQUIPE: <o que para todos de uma vez> · quem: <nomes>"
         },
         {
           "rot": "Contrato de passagem entre agentes",
           "icone": "seta",
-          "conteudo": "CONTRATO DE PASSAGEM · <agente A> → <agente B> · versão <1.0>\n\nGATILHO: <evento que dispara a passagem>\nO QUE PASSA (só o necessário): <campos>\nO QUE NÃO PASSA: <dados que ficam com A>\nEVIDÊNCIA JUNTO: <registro do que A fez, com identificador do caso>\nB DEVE: <o que B entrega e em que prazo>\nB NÃO PODE: <ações proibidas para B neste caso>\nSE FALTAR DADO: B devolve para A uma vez, com o motivo; na 2ª, vai para <pessoa>\nLIMITE: <n> tentativas · prazo <tempo> · custo máximo por caso <valor estimado>\nRESPONSÁVEL PELA PASSAGEM: <nome>\nREGISTRO: toda passagem gera uma linha (data, caso, de, para, o que foi, resultado)"
+          "conteudo": "CONTRATO DE PASSAGEM · <agente A> → <agente B> · versêo <1.0>\n\nGATILHO: <evento que dispara a passagem>\nO QUE PASSA (só o necessário): <campos>\nO QUE NêO PASSA: <dados que ficam com A>\nEVIDÊNCIA JUNTO: <registro do que A fez, com identificador do caso>\nB DEVE: <o que B entrega e em que prazo>\nB NêO PODE: <ações proibidas para B neste caso>\nSE FALTAR DADO: B devolve para A uma vez, com o motivo; na 2ª, vai para <pessoa>\nLIMITE: <n> tentativas · prazo <tempo> · custo máximo por caso <valor estimado>\nRESPONSÁVEL PELA PASSAGEM: <nome>\nREGISTRO: toda passagem gera uma linha (data, caso, de, para, o que foi, resultado)"
         }
       ],
       "saida": {
@@ -158,11 +158,11 @@
         "abas": [
           {
             "rot": "Equipe da Horizonte (exemplo)",
-            "html": "<p>Horizonte, empresa fictícia de estudo · responsável: Patrícia (vendas) e financeiro (cobrança).</p><ul><li><b>Conferência de pedido</b> · regra na ferramenta: preço, teto, valor, cadastro.</li><li><b>Hora</b> · agente de vendas · registra pedidos de reposição.</li><li><b>Agente de cobrança</b> · separado pelo sinal das permissões: lê contas a receber, envia lembrete aprovado; nunca renegocia.</li><li><b>Pessoas</b> · Patrícia aprova pedido acima de R$ 5 mil e desconto de 5% a 10%; financeiro decide renegociação.</li><li><b>Série:</b> pedido → aprovação → separação → faturamento → lembrete. <b>Paralelo:</b> lembretes de faturas diferentes, como rotina automática.</li></ul>"
+            "html": "<p>Horizonte, empresa fictícia de estudo · responsável: Patrícia (vendas) e financeiro (cobrança).</p><ul><li><b>Conferência de pedido</b> · regra na ferramenta: preço, teto, valor, cadastro.</li><li><b>Hora</b> · agente de vendas · registra pedidos de reposiçêo.</li><li><b>Agente de cobrança</b> · separado pelo sinal das permissões: lê contas a receber, envia lembrete aprovado; nunca renegocia.</li><li><b>Pessoas</b> · Patrícia aprova pedido acima de R$ 5 mil e desconto de 5% a 10%; financeiro decide renegociaçêo.</li><li><b>Série:</b> pedido → aprovaçêo → separaçêo → faturamento → lembrete. <b>Paralelo:</b> lembretes de faturas diferentes, como rotina automática.</li></ul>"
           },
           {
             "rot": "Passagem Hora → cobrança",
-            "html": "<ul><li><b>Gatilho:</b> nota emitida no ERP.</li><li><b>Passa:</b> número da nota, valor, vencimento, contato autorizado para cobrança.</li><li><b>Não passa:</b> a conversa de vendas, descontos negociados, outros contatos.</li><li><b>Cobrança não pode:</b> renegociar, dar desconto, ameaçar, cobrar antes do vencimento.</li><li><b>Faltou dado:</b> devolve uma vez à Hora, com o motivo; na segunda, o financeiro assume.</li><li><b>Limite:</b> 2 lembretes por fatura.</li></ul>"
+            "html": "<ul><li><b>Gatilho:</b> nota emitida no ERP.</li><li><b>Passa:</b> número da nota, valor, vencimento, contato autorizado para cobrança.</li><li><b>Nêo passa:</b> a conversa de vendas, descontos negociados, outros contatos.</li><li><b>Cobrança nêo pode:</b> renegociar, dar desconto, ameaçar, cobrar antes do vencimento.</li><li><b>Faltou dado:</b> devolve uma vez à Hora, com o motivo; na segunda, o financeiro assume.</li><li><b>Limite:</b> 2 lembretes por fatura.</li></ul>"
           }
         ]
       }
@@ -177,21 +177,21 @@
           "titulo": "1 · A equipe do pedido à cobrança",
           "min": "30 min",
           "texto": "Desenhe, com o modelo, a equipe do processo da Horizonte do pedido no WhatsApp até o lembrete de cobrança. Para cada peça, diga se é regra, agente ou pessoa, e por quê. Escreva o contrato de passagem da Hora para o agente de cobrança sem olhar o exemplo; depois compare.",
-          "pronto": "o desenho tem pelo menos uma peça que você decidiu NÃO ser agente, cada agente com o sinal que justifica existir separado, o contrato de passagem com o que passa e o que não passa, e limites de tentativas, devoluções, prazo e orçamento."
+          "pronto": "o desenho tem pelo menos uma peça que você decidiu NêO ser agente, cada agente com o sinal que justifica existir separado, o contrato de passagem com o que passa e o que nêo passa, e limites de tentativas, devoluções, prazo e orçamento."
         },
         {
           "id": "e2",
           "titulo": "2 · A sua equipe, ou o seu agente sozinho",
           "min": "25 min",
-          "texto": "Pegue o seu processo e suba a escada: o que é passo fixo? um agente basta? aparece algum dos três sinais? Se aparecer, desenhe a equipe e escreva o contrato de uma passagem. Se não aparecer, escreva em duas linhas por que um agente basta por enquanto.",
-          "pronto": "você tem por escrito a decisão (um agente ou equipe) com o sinal que a justifica, e, se for equipe, o desenho e um contrato de passagem com limites."
+          "texto": "Pegue o seu processo e suba a escada: o que é passo fixo? um agente basta? aparece algum dos três sinais? Se aparecer, desenhe a equipe e escreva o contrato de uma passagem. Se nêo aparecer, escreva em duas linhas por que um agente basta por enquanto.",
+          "pronto": "você tem por escrito a decisêo (um agente ou equipe) com o sinal que a justifica, e, se for equipe, o desenho e um contrato de passagem com limites."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Conferir se o desconto passa de 5% e se o pedido passa de R$ 5 mil deve ser feito por quem?",
@@ -202,40 +202,40 @@
           ],
           "certa": 0,
           "ref": "passos",
-          "explica": "É regra fixa: a mesma entrada sempre dá a mesma resposta. Regra na ferramenta é mais barata, mais rápida e não pode ser convencida por um texto do cliente. Agente é para o que exige julgamento."
+          "explica": "É regra fixa: a mesma entrada sempre dá a mesma resposta. Regra na ferramenta é mais barata, mais rápida e nêo pode ser convencida por um texto do cliente. Agente é para o que exige julgamento."
         },
         {
           "p": "Qual destes é um bom motivo para separar a cobrança em outro agente?",
           "opcoes": [
             "Mais agentes passam a imagem de empresa moderna ao dono",
             "Cada agente novo custa menos que o anterior, por escala",
-            "A cobrança precisa de permissões que vendas não deve ter"
+            "A cobrança precisa de permissões que vendas nêo deve ter"
           ],
           "certa": 2,
           "ref": "diagrama",
-          "explica": "É o sinal das permissões: ler contas a receber não é coisa que o agente de vendas deve poder. Os outros dois sinais são a mesa que lota e a conferência independente."
+          "explica": "É o sinal das permissões: ler contas a receber nêo é coisa que o agente de vendas deve poder. Os outros dois sinais sêo a mesa que lota e a conferência independente."
         },
         {
           "p": "O agente de cobrança devolveu o caso à Hora por falta de dado, e a Hora devolveu de volta. O que o contrato de passagem deveria prever?",
           "opcoes": [
             "Que eles tentem de novo até resolverem entre si",
-            "Uma devolução no máximo; na segunda, uma pessoa assume",
+            "Uma devoluçêo no máximo; na segunda, uma pessoa assume",
             "Que o supervisor libere mais permissões aos dois para destravar o caso"
           ],
           "certa": 1,
           "ref": "codigo",
-          "explica": "Sem limite de devoluções e tentativas, a equipe entra em laço e o custo cresce sem ninguém ver. Liberar permissões para destravar é o erro oposto: supervisor não amplia permissão."
+          "explica": "Sem limite de devoluções e tentativas, a equipe entra em laço e o custo cresce sem ninguém ver. Liberar permissões para destravar é o erro oposto: supervisor nêo amplia permissêo."
         },
         {
           "p": "A McKinsey fala em 2 a 5 pessoas supervisionando 50 a 100 agentes. Como usar esse dado?",
           "opcoes": [
-            "Como experiência declarada da consultoria, não como estudo medido",
+            "Como experiência declarada da consultoria, nêo como estudo medido",
             "Como meta de porte: a Horizonte precisaria de uns 50 agentes",
             "Como estudo que prova que agentes já substituem pessoas"
           ],
           "certa": 0,
           "ref": "passos",
-          "explica": "É relato da própria consultoria, que vende essa transformação. Serve para pensar a unidade (equipe pequena por resultado), não como meta de quantidade nem como prova."
+          "explica": "É relato da própria consultoria, que vende essa transformaçêo. Serve para pensar a unidade (equipe pequena por resultado), nêo como meta de quantidade nem como prova."
         }
       ]
     },
@@ -244,7 +244,7 @@
       "titulo": "Resumo",
       "itens": [
         {
-          "t": "Regra não é agente",
+          "t": "Regra nêo é agente",
           "texto": "O que tem resposta fixa vai para a ferramenta."
         },
         {
@@ -253,11 +253,11 @@
         },
         {
           "t": "Contrato em cada seta",
-          "texto": "Gatilho, o que passa e o que não passa, proibidos, prazo, devolução."
+          "texto": "Gatilho, o que passa e o que nêo passa, proibidos, prazo, devoluçêo."
         },
         {
           "t": "Limites da equipe",
-          "texto": "Tentativas, devoluções, prazo, orçamento e um botão que para todos."
+          "texto": "Tentativas, devoluções, prazo, orçamento e um botêo que para todos."
         }
       ]
     },
@@ -266,7 +266,7 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Arquiteto de Execução: paralelo × sequencial",
+          "t": "Arquiteto de Execuçêo: paralelo × sequencial",
           "href": "https://linnoff88-dev.github.io/
           "icone": "fila"
         },
@@ -276,7 +276,7 @@
           "icone": "camadas"
         },
         {
-          "t": "Kit do Arquiteto de Agentes: cadeia de orquestração",
+          "t": "Kit do Arquiteto de Agentes: cadeia de orquestraçêo",
           "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
